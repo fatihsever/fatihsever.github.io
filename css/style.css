@@ -597,7 +597,7 @@ header.red {
 
 #card-footer {
     height: 23px;
-    background: url(../img/card_footer.png)
+    background: url(../img/card_footer.png);
     background-position-x: -4px;
 }
 
